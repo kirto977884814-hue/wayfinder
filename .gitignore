@@ -1,0 +1,14 @@
+# 个人画像 / 学习数据 —— 绝不入库
+.personal-profile/
+**/learning-records/
+**/NOTES.local.md
+**/*.local.md
+
+# 系统
+.DS_Store
+Thumbs.db
+*.log
+
+# 编辑器
+.vscode/
+.idea/
